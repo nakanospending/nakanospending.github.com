@@ -1,12 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 13.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 14948)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" id="Ebene_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
-	 width="100px" height="100px" viewBox="0 0 100 100" enable-background="new 0 0 100 100" xml:space="preserve">
-<circle fill="#B2B2B2" cx="50" cy="50" r="50"/>
-<path id="polyline25" fill="#231815" d="M40.927,22.726l7.575,5.452L26.835,43.859H11.528"/>
-<path id="polyline27" fill="#231815" d="M88.733,43.859H74.655L42.864,21.312l7.211-5.19"/>
-<path id="polyline29" fill="#231815" d="M50.075,86L9.853,57.165h14.859l33.204,23.191"/>
-<path id="polyline31" fill="#231815" d="M98.622,51.061l-6.983-4.951L8.71,45.894l-7.182,5.167l5.762,4.146l70.856-0.094
-	L52.492,73.512l7.646,5.422"/>
-</svg>
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Ebene_1"
+   x="0px"
+   y="0px"
+   width="100px"
+   height="100px"
+   viewBox="0 0 100 100"
+   enable-background="new 0 0 100 100"
+   xml:space="preserve"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="government.svg"><metadata
+   id="metadata4405"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs4403" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="2560"
+   inkscape:window-height="1552"
+   id="namedview4401"
+   showgrid="false"
+   inkscape:zoom="5.34"
+   inkscape:cx="87.453184"
+   inkscape:cy="42.509363"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Ebene_1" />
+<circle
+   fill="#B2B2B2"
+   cx="50"
+   cy="50"
+   r="50"
+   id="circle4395" />
+
+
+
+
+<path
+   inkscape:connector-curvature="0"
+   d="m 49.847958,12.445162 -5.293904,3.176338 0,2.729667 c -16.979946,2.555994 -30.00981,17.217803 -30.00981,34.906673 0,14.62601 8.910563,27.18564 21.594708,32.54096 l 8.332385,-8.33238 c 1.731255,0.38324 3.530609,0.58454 5.376621,0.58454 1.846012,0 3.645364,-0.2013 5.37662,-0.58454 l 8.332383,8.33238 C 76.241107,80.44348 85.15167,67.88385 85.151674,53.25784 c 0,-17.68887 -13.029867,-32.350679 -30.009813,-34.906673 l 0,-2.729667 -5.293903,-3.176338 z m -5.293904,16.587548 0,33.3516 -10.212819,10.21282 c -5.659109,-4.5455 -9.286386,-11.52139 -9.286386,-19.33929 0,-11.86909 8.354148,-21.79803 19.499205,-24.22513 z m 10.587807,0 c 11.145066,2.4271 19.499211,12.35604 19.499211,24.22513 0,7.8179 -3.627288,14.79379 -9.28639,19.33929 l -10.212821,-10.21282 0,-33.3516 z"
+   id="path2388"
+   style="fill:#000000;fill-opacity:1;stroke:none" /></svg>
